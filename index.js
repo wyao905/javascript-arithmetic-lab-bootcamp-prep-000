@@ -10,4 +10,9 @@ function add(a, b) {
  function divide(a, b) {
    return a / b;
  }
- function add5() {
+ function inc(n) {
+   return n + 1;
+ }
+ function dec(n) {
+   return n - 1;
+ }
