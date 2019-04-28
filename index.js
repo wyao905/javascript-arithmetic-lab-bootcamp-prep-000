@@ -17,8 +17,8 @@ function add(a, b) {
    return n - 1;
  }
  function makeInt(n) {
-   parseInt(n);
+   return parseInt(n);
  }
  function preserveDecimal(n) {
-   parseFloat(n);
+   return parseFloat(n);
  }
