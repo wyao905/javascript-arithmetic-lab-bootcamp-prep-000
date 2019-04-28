@@ -1,4 +1,4 @@
-/* function add(a, b) {
+function add(a, b) {
   return a + b;
 }
  function subtract(a, b) {
@@ -21,7 +21,4 @@
  }
  function preserveDecimal(n) {
    return parseFloat(n);
- }*/
- 
- n = 9000;
- console.log(parseInt(n, 10));
+ }
