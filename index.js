@@ -24,4 +24,4 @@
  }*/
  
  n = 9000;
- console.log(parseInt(n));
+ console.log(parseInt(n, 10));
